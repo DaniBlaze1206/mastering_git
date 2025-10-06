@@ -1,2 +1,2 @@
 console.log('Hello World!');
-console.log('welcome to git mastery');
+console.log('welcome to mastering git!');
